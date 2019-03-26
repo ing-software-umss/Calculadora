@@ -10,7 +10,7 @@ public class Calculadora implements CalculadoraInterface
         return 0;
     }
     public int mult(int n1, int n2){
-        return 0;
+        return n1*n2;
     }
     public int division(int n1, int n2){
         return 0;

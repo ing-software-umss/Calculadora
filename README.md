@@ -1,12 +1,20 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Calculadora
+Calculadora que contiene las siguientes funcionalidades
 
-PROJECT TITLE: Calculadora
-PURPOSE OF PROJECT: pratica de git
-VERSION or DATE: 1.0
-HOW TO START THIS PROJECT: Main.ja
-AUTHORS: team-soft
-USER INSTRUCTIONS: ....
+- Sumar
+- Restar
+- Multiplicar
+- Dividir
+- Residuo
+
+Integrantes :
+
+- Alexander Mamani Yucra
+- Carlos Alberto Torrico Lupe
+- Erwin Laura Cuisara
+- Adan Franco Toledo
+- Rudy Montenegro Montero
+- Carlos Cuba
+
+Grupo : Team-soft
+
